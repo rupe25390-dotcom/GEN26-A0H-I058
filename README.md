@@ -1,4 +1,4 @@
-<img width="383" height="119" alt="image" src="https://github.com/user-attachments/assets/cb02f385-8cb5-40d4-8f62-130d754922ed" /># Genesis 2026: Ideathon
+# Genesis 2026: Ideathon
 
 ## GEN26-A0H-I058
 ### Team Details
